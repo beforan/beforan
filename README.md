@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋 I'm Jon
+
+😄 Pronouns: he/him
+
+You can find me on [![Twitter][twitter_icon] Twitter][twitter_link].
 
 <!--
 **beforan/beforan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Projects
+
+- [DECSYS](https://github.com/decsys/decsys)
+
+[twitter_icon]: http://i.imgur.com/wWzX9uB.png
+[twitter_link]: https://twitter.com/beforan
