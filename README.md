@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beforan)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Projects
 
 - [DECSYS](https://github.com/decsys/decsys)
